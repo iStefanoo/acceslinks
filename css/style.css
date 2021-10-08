@@ -46,9 +46,9 @@ body {
 }
 
 .steflink:hover {
-    background-color: rgb(190, 134, 196);
+    background-color: rgb(160, 126, 182);
     color: rgb(36, 33, 33);
-    border: solid rgb(125, 21, 156) 4.5px;
+    border: solid rgb(125, 21, 156) 3.5px;
 }
 
 .footer {
